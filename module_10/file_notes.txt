@@ -1,0 +1,26 @@
+csv: comma (,) example: Survarna,Third
+tsv: tab (\t)  example: Survarna    Third \nABC     First
+
+open a file 
+file = open("name.filetype", mode)
+            .csv        r,rt --> read text file
+            .tsv        w, wt --> write text file 
+                        rb --> reading  binary file
+
+reading a file 
+file.read()
+- returns continuous string of data
+- example: "Survarna\tThird\nABC\tFirst"
+file.readlines()
+"Survarna\tThird"
+"ABC\tFirst"
+file.readline()
+- gives the next line
+- 
+lst1= []
+for line in file:
+    list1 = list1 + line
+
+writing file 
+file.write()
+- whatever the outline is becomes
