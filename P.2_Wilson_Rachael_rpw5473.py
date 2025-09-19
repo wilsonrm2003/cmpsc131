@@ -1,7 +1,7 @@
 '''
-Full Name: Rachael Patricia Wilson      
+Full Name: Rachael Wilson      
 Team Members: Rachael Wilson, Arushi Agarwal, Manas Munjial
-ID: 944752057
+ID: 
 Date: 12.1.2022
 Filename: P.2_Wilson_Rachael_rpw5473.py
 Purpose:
